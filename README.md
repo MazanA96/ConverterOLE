@@ -1,2 +1,2 @@
 # ConverterOLE
-Application in python converting RGB, HEX &lt;-> OLE
+Application in python converting RGB &lt;-> OLE
